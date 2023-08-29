@@ -12,8 +12,8 @@ export default function BannerSecond() {
           <div className="left-[579.15px] top-[-1px] absolute text-center text-white text-[61px] font-extrabold leading-[76.80px]">OOSE US</div>
         </div>
         <div className="w-8 h-1 left-[569px] top-[92.80px] absolute border-t-2 border-red-700" />
-        <div className="pl-4 pr-[15.76px] py-[7px] left-[481.14px] top-[120.80px] absolute bg-red-700 rounded border border-red-700 justify-center items-start inline-flex">
-          <div className="text-center text-white text-[15px] font-normal leading-normal">Book a Pest Service Today</div>
+        <div className="pl-4 pr-[15.76px] py-[7px] left-[481.14px] top-[120.80px] absolute transition duration-300 ease-in-out hover:bg-red-900 bg-red-700 rounded border border-red-700 justify-center items-start inline-flex">
+          <button className="text-center text-white text-[15px] font-normal leading-normal">Book a Pest Service Today</button>
         </div>
       </div>
       <div className="w-[1200px] h-60 relative">

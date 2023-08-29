@@ -1,20 +1,26 @@
 import React from 'react'
 
 export default function Cards() {
+
+
+  
   return (
-    <div className="w-[1400px] left-[30px] h-[552.17px] relative">
-    <div className="w-[1170px] h-[76.80px] right-80 left-[80px] top-0 absolute">
-      <div className="left-[344.88px] top-[-1px] absolute text-center text-gray-800 text-[59px] font-extrabold leading-[76.80px]">SPEC</div>
-      <img className="w-[51.19px] h-[29.05px] left-[492.08px] top-[-9.39px] absolute" src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693278851/Screenshot_2023-08-29_084152-removebg-preview_blcflp.png" />
-      <div className="left-[505.89px] top-[-1px] absolute text-center text-gray-800 text-[61px] font-extrabold leading-[76.80px]">IAL DEALS</div>
-    </div>
-    <div className="w-8 h-1 left-[584px] top-[92.79px] absolute border-t-2 border-red-700" />
+    <div className="w-[1400px] left-[30px] h-[552.17px] pr-12 relative">
+<div className="w-[1170px] h-[76.80px] absolute top-0 right-64" style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center' }}>
+  <div className="text-center text-gray-800 text-[59px] font-extrabold leading-[76.80px]" >SPEC</div>
+  <img className="w-[51.19px] h-[29.05px] right-[275.08px] top-[-9.39px] absolute"  src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693278851/Screenshot_2023-08-29_084152-removebg-preview_blcflp.png" />
+  <div className="text-center text-gray-800 text-[61px] font-extrabold leading-[76.80px]">IAL DEALS</div>
+</div>
+
+
+
+    <div className="w-8 h-1 left-[880px] top-[92.79px] absolute border-t-2 border-red-700" />
     <div className="w-[1170px] left-[40px] top-[144.79px] absolute justify-start items-start inline-flex">
       {/* <div className="w-12 h-12 px-4 pt-[18px] pb-3.5 bg-red-700 rounded-3xl border border-red-700 justify-center items-start flex">
         <div className="w-4 h-4 px-[3.86px] py-[1.18px] justify-start items-start flex" />
       </div> */}
-      <div className="justify-end items-center flex">
-        <div className=" pl-[200.64px] pr-[200.70px] justify-center items-start gap-[23.30px] inline-flex">
+<div className="flex justify-end items-center">
+  <div className="pr-[150.64px] pl-[282.70px] justify-center gap-[23.30px] inline-flex">
           <div className="w-[370px] bg-white flex-col justify-start items-start inline-flex">
             <img className="w-[370px] h-[236px] relative" src="https://s3-alpha-sig.figma.com/img/b7bb/7cf4/fb75f30a04cb9a7baa31c40c36d3a431?Expires=1694390400&Signature=mY8S3zxIK3Hp4P8T1aE4b2eAFkUOJUuvjL1js8KZ7LjWFKT9aGhtKbkahCanUDg~cSSkJBSGJ97Ln-g-112LdexnWGDW7s8ytiPKIBjmDSiOERxIwrIdYxXgkO~~nfufnDhscOXen797bc7fzV-EbLIIssdbKojjXm~0mBPx4-BX9uwL4NYV2pu7WFZPxAfmdfknlv4PJ5kMIbgV5OCzPHEJML-ZbomptWnoGa1qNYPn5oIRCG~hEGbVQA0Us8wiVwgJs9Vt57vDHN9yuVEO4MxOjqB9KVRe8anTXPMg4dP65IgRL~6BcWmsBPfuf5jUTCKkLPGPFOi-IqNo6k8s7w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
             <div className="w-[370px] justify-start items-start inline-flex">
