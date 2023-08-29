@@ -21,6 +21,12 @@ export default function Cards() {
       </div> */}
 <div className="flex justify-end items-center">
   <div className="pr-[150.64px] pl-[282.70px] justify-center gap-[23.30px] inline-flex">
+
+       
+
+
+
+
           <div className="w-[370px] bg-white flex-col justify-start items-start inline-flex">
             <img className="w-[370px] h-[236px] relative" src="https://s3-alpha-sig.figma.com/img/b7bb/7cf4/fb75f30a04cb9a7baa31c40c36d3a431?Expires=1694390400&Signature=mY8S3zxIK3Hp4P8T1aE4b2eAFkUOJUuvjL1js8KZ7LjWFKT9aGhtKbkahCanUDg~cSSkJBSGJ97Ln-g-112LdexnWGDW7s8ytiPKIBjmDSiOERxIwrIdYxXgkO~~nfufnDhscOXen797bc7fzV-EbLIIssdbKojjXm~0mBPx4-BX9uwL4NYV2pu7WFZPxAfmdfknlv4PJ5kMIbgV5OCzPHEJML-ZbomptWnoGa1qNYPn5oIRCG~hEGbVQA0Us8wiVwgJs9Vt57vDHN9yuVEO4MxOjqB9KVRe8anTXPMg4dP65IgRL~6BcWmsBPfuf5jUTCKkLPGPFOi-IqNo6k8s7w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
             <div className="w-[370px] justify-start items-start inline-flex">
