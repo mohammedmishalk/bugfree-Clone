@@ -1,6 +1,6 @@
 import React from 'react'
 import Blog from './Blog'
-import Cards from './Cards'
+
 
 function Testismonials() {
   return (
@@ -34,12 +34,13 @@ function Testismonials() {
         </div>
       </div>
     </div>
-    <div className="w-4 self-stretch px-[3.86px] py-[1.18px] justify-start items-start inline-flex" />
+    {/* <div className="w-4 self-stretch px-[3.86px] py-[1.18px] justify-start items-start inline-flex" /> */}
   </div>
 </div>
     </div>
 
-    {/* <Cards/> */}
+<Blog/>
+   
     </>
   )
 }

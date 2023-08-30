@@ -18,9 +18,7 @@ export default function Cards() {
 
     <div className="w-8 h-1 left-[880px] top-[92.79px] absolute border-t-2 border-red-700" />
     <div className="w-[1170px] left-[40px] top-[144.79px] absolute justify-start items-start inline-flex">
-      {/* <div className="w-12 h-12 px-4 pt-[18px] pb-3.5 bg-red-700 rounded-3xl border border-red-700 justify-center items-start flex">
-        <div className="w-4 h-4 px-[3.86px] py-[1.18px] justify-start items-start flex" />
-      </div> */}
+    
 <div className="flex justify-end items-center">
   <div className="pr-[150.64px] pl-[282.70px] justify-center gap-[23.30px] inline-flex">
 

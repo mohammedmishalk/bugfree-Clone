@@ -4,4 +4,15 @@
 @tailwind utilities;
 
 
- 
+body {
+    overflow-x: hidden;
+  }
+
+  .custom-list::before {
+    content: '•';
+    position: absolute;
+    left: -1.25rem; /* Adjust this value to control the spacing of bullet points */
+    top: 0.5rem; /* Adjust this value to vertically align the bullet points */
+    color: black; /* Change the color of the bullet points to black */
+  }
+  
