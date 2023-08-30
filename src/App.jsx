@@ -31,9 +31,9 @@ function App() {
         <div className="w-8 h-8 px-[2.35px] py-[7.72px] justify-start items-start flex" />
       </div>
       <div className="w-[1170px] h-[76px] relative">
-        <div className="left-[345.82px] top-[-100px] absolute text-center text-white text-[39px] font-extrabold leading-[76px]">30 SECOND </div>
-        <img className="w-8 h-[18.16px] left-[570.41px] top-[-90px] absolute" src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693236732/Screenshot_2023-08-28_210012-removebg-preview_dveeey.png" />
-        <div className="left-[577.83px] top-[-100px] absolute text-center text-white text-[39px] font-extrabold leading-[76px]">FREE QUOTE</div>
+        <div className="left-[345.82px] top-[-100px] absolute text-center text-white text-[39px] font-extrabold leading-[76px] italic">30 SECOND </div>
+        <img className="w-8 h-[18.16px] left-[575.41px] top-[-90px] absolute" src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693236732/Screenshot_2023-08-28_210012-removebg-preview_dveeey.png" />
+        <div className="left-[577.83px] top-[-100px] absolute text-center text-white text-[39px] font-extrabold leading-[76px] italic">FREE QUOTE</div>
       </div>
       <div className="w-[1170px] px-5 justify-start items-start inline-flex">
         <div className="px-0.5 justify-center items-start gap-[1126px] flex">

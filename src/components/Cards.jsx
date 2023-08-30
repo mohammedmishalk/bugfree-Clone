@@ -1,15 +1,17 @@
 import React from 'react'
+import Testismonials from './Testismonials'
 
 export default function Cards() {
 
 
   
   return (
-    <div className="w-[1400px] left-[30px] h-[552.17px] pr-12 relative">
+    <>
+    <div className="w-[1400px] left-[30px] mb-16 h-[552.17px] pr-12 relative">
 <div className="w-[1170px] h-[76.80px] absolute top-0 right-64" style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center' }}>
-  <div className="text-center text-gray-800 text-[59px] font-extrabold leading-[76.80px]" >SPEC</div>
-  <img className="w-[51.19px] h-[29.05px] right-[275.08px] top-[-9.39px] absolute"  src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693278851/Screenshot_2023-08-29_084152-removebg-preview_blcflp.png" />
-  <div className="text-center text-gray-800 text-[61px] font-extrabold leading-[76.80px]">IAL DEALS</div>
+  <div className="text-center text-gray-800 text-[59px] font-extrabold leading-[76.80px] italic" >SPEC</div>
+  <img className="w-[51.19px] h-[29.05px] right-[272.08px] top-[-9.50px] absolute"  src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693278851/Screenshot_2023-08-29_084152-removebg-preview_blcflp.png" />
+  <div className="text-center text-gray-800 text-[61px] font-extrabold leading-[76.80px] italic">IAL DEALS</div>
 </div>
 
 
@@ -105,10 +107,14 @@ export default function Cards() {
           </div>
         </div>
       </div>
-      {/* <div className="w-12 h-12 px-4 pt-[18px] pb-3.5 bg-red-700 rounded-3xl border border-red-700 justify-center items-start flex">
-        <div className="w-4 h-4 px-[3.86px] py-[1.18px] justify-start items-start flex" />
-      </div> */}
+     
     </div>
   </div>
+
+
+ <Testismonials/>
+
+
+  </>
   )
 }

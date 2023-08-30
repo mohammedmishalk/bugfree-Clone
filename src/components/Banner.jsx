@@ -46,7 +46,7 @@ export default function Banner() {
 
             </div>
             <div className="Link pl-[33.51px] pr-[33.30px] py-[9px] left-[15px] top-[433.74px] absolute bg-red-700 rounded border border-red-700 justify-start items-start inline-flex transition duration-300 ease-in-out hover:bg-red-900">
-                <button className="ReadMore text-center text-white text-base font-bold leading-normal">Read More</button>
+                <button className="ReadMore text-center text-white text-base font-bold leading-normal italic">Read More</button>
                 <div className="w-16 right-5 top-12 h-16 p-5 px-[18.35px] py-[18px] bg-red-700 rounded-[32px] absolute  z-[999] ">
                 <img
       src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693235154/Vector_b8ixfy.png"

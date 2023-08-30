@@ -10,10 +10,10 @@ function Bannerthird() {
     </div>
     <div className="grow shrink basis-0 px-[15px] pt-40 flex-col justify-start items-start gap-6 inline-flex">
       <div className="w-[570px] h-[153.59px] relative">
-        <div className="left-0 top-[-1px] absolute text-white text-6xl font-extrabold leading-[76.80px]">SERVIC</div>
+        <div className="left-0 top-[-1px] absolute text-white text-6xl font-extrabold leading-[76.80px] italic">SERVIC</div>
         <img className="w-[51.19px] h-[29.05px] left-[195.05px] top-[-9.39px] absolute" src="https://res.cloudinary.com/dvekmmxxx/image/upload/v1693236732/Screenshot_2023-08-28_210012-removebg-preview_dveeey.png" />
-        <div className="left-[210.55px] top-[-1px] absolute text-white text-[62px] font-extrabold leading-[76.80px]">ING ALL</div>
-        <div className="left-0 top-[75.79px] absolute text-white text-[61px] font-extrabold leading-[76.80px]">PEST CONTROL</div>
+        <div className="left-[210.55px] top-[-1px] absolute text-white text-[62px] font-extrabold leading-[76.80px] italic">ING ALL</div>
+        <div className="left-0 top-[75.79px] absolute text-white text-[61px] font-extrabold leading-[76.80px] italic">PEST CONTROL</div>
       </div>
       <div className="w-[570px] pr-[150.43px] justify-start items-start gap-[12.39px] inline-flex">
         <div className="w-[221.34px] h-[42px] relative bg-red-500 rounded border border-red-500 transition duration-300 ease-in-out hover:bg-red-900">
