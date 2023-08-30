@@ -14,7 +14,6 @@ function App() {
         <div className="w-[1500px] h-[1694.45px] ">
           <div className="w-[1500px] h-[788px] left-0 top-0 absolute">
             <Navbar />
-
             <Banner />
           </div>
 
@@ -580,9 +579,10 @@ function App() {
           </div>
         </div>
       </div>
-
+      
       <Description />
       <BannerSecond />
+      {/* footer area */}
       <Footer/>
     </>
   );
