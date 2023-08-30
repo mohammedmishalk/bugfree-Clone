@@ -12,7 +12,7 @@ function App() {
     <>
       <div className="w-[100px] h-[2500px] pb-[290.55px] bg-white flex-col  inline-flex">
         <div className="w-[1500px] h-[1694.45px] ">
-          <div className="w-[1903px] h-[788px] left-0 top-0 absolute">
+          <div className="w-[1500px] h-[788px] left-0 top-0 absolute">
             <Navbar />
 
             <Banner />

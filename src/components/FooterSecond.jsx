@@ -3,7 +3,7 @@ import React from 'react'
 function FooterSecond() {
   return (
     <>
-    <div className="w-[1903px] h-[810.06px] px-[351.50px] pt-[31px] pb-8 bg-white justify-center items-start inline-flex">
+    <div className="w-[1888px] h-[810.06px] px-[351.50px] pt-[31px] pb-8 bg-white justify-center items-start inline-flex">
     <div className="grow shrink basis-0 flex-col justify-start items-start inline-flex">
       <div className="w-[1200px] justify-start items-end inline-flex">
         <div className="grow shrink basis-0 h-[277.73px] px-[15px] pb-2 justify-start items-start flex">
@@ -154,7 +154,7 @@ function FooterSecond() {
       </div>
     </div>
   </div>
-  <div className="w-[1903px] h-[55px] p-4 bg-gray-800 justify-start items-start inline-flex">
+  <div className="w-[1888px] h-[55px] p-4 bg-gray-800 justify-start items-start inline-flex">
   <div className="text-white text-[11px] font-normal leading-snug">Copyright © 2023 MOHAMMED MISHAL K  |  All Rights Reserved  |  Privacy Policies  |  Terms & Conditions</div>
 </div>
 

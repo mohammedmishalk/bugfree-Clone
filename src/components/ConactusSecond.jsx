@@ -2,7 +2,7 @@ import React from 'react'
 
 function ConactusSecond() {
   return (
-<div className="w-[1903px] h-[422px] px-[351.50px] py-20 bg-gray-800 justify-start items-start inline-flex">
+<div className="w-[1888px] h-[422px] px-[351.50px] py-20 bg-gray-800 justify-start items-start inline-flex">
   <div className="h-[262px] justify-start items-start flex">
     <div className="grow shrink basis-0 h-[262px] px-[15px] py-[3.46px] justify-start items-center flex">
       <div className="w-[570px] h-[255.08px] relative">

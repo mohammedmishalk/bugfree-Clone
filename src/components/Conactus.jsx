@@ -3,7 +3,7 @@ import ConactusSecond from './ConactusSecond'
 export default function Conactus() {
   return (
     <>
-    <div className="w-[1903px] h-[555.19px] px-[351.50px] bg-red-700 justify-start items-start inline-flex">
+    <div className="w-[1888px] h-[555.19px] px-[351.50px] bg-red-700 justify-start items-start inline-flex">
     <div className="h-[555.19px] justify-start items-start flex">
       <div className="grow shrink basis-0 py-20 flex-col justify-start items-center gap-[6.99px] inline-flex">
         <div className="w-[570px] h-[76.80px] relative">

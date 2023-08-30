@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
     
-    <div className="w-[1903px] h-[142.39px] px-[366.50px] py-8 bg-white justify-start items-start inline-flex">
+    <div className="w-[1888px] h-[142.39px] px-[366.50px] py-8 bg-white justify-start items-start inline-flex">
   <div className="h-[78.39px] justify-center items-center flex">
     <div className="w-[178px] h-[60px] justify-center items-center flex">
       <img className="w-[178px] h-[61.09px] relative" src="https://s3-alpha-sig.figma.com/img/7162/36c4/c7055b31b23a73834e7eeb8399e91fdc?Expires=1694390400&Signature=YndOgx-SgjolR8wS7TnsyKH6uPUlmBdUi-lCWppCbjav03C40~a0OqC1sLJPSiYlC2Bc-K57XXJxtE0IqSYmKuANdperKXCOhsleqatX7ykJaCHc50hi-j665ARtd0XrM-xKTCoB2TrVfvB~6m5bGRXRKowzWTK5ORuknOeeOgXQYv9SuLIIaY~V2Kyp7Bu1Dq4JVshSARourFWVMV7pkGpR5JbNgZHXM1ONF5rtHpFI1mDQmz1bwuyXA9b-GLgP4CcqjbsENJfMQ6dLgRM5QdZ3YmPKvTh7YbQMqcGGgS~8R1IPcO9jyQ5oEq-qWmnzWuTW05qTXEiL0M4rJmavdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />

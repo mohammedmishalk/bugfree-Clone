@@ -3,7 +3,7 @@ import DescriptionSecond from './DescriptionSecond'
 export default function BannerSecond() {
   return (
     <>
-    <div className="w-[1900px] h-[583px] pt-20 bg-gray-800 flex-col justify-end items-center gap-20 inline-flex">
+    <div className="w-[1888px] h-[583px] pt-20 bg-gray-800 flex-col justify-end items-center gap-20 inline-flex">
     <div className="self-stretch h-[422.80px] flex-col justify-start items-center gap-6 inline-flex">
       <div className="w-[1170px] h-[158.80px] relative">
         <div className="w-[1170px] h-[76.80px] left-0 top-0 absolute">

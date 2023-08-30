@@ -36,7 +36,7 @@ function DescriptionSecond() {
       </div>
       
     </div>
-    <div className="w-[1903px] h-[586.03px] px-[351.50px] py-[-20px] justify-start items-start inline-flex">
+    <div className="w-[1888px] h-[586.03px] px-[351.50px] py-[-20px] justify-start items-start inline-flex">
   <div className="h-[426.03px] justify-start items-start flex">
     <div className="grow shrink basis-0 h-[426.03px] px-[15px] justify-center items-center flex">
       <div className="w-[570px] h-[426.03px] relative">
